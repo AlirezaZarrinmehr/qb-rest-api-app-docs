@@ -1,4 +1,4 @@
-Terms of Service
+# Terms of Service
 
 This application is intended for internal use by employees of the company only.
 
