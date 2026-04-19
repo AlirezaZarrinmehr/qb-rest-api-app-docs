@@ -1,2 +1,4 @@
-# qb-rest-api-app-docs
-QuickBooks API app documentation (privacy policy and terms)
+# QuickBooks API App Docs
+
+- [Privacy Policy](privacy-policy.html)
+- [Terms of Service](terms-of-service.html)
